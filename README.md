@@ -1,5 +1,8 @@
 ## ⚙ Technologies
 
+|Programming Lenguages|Backend|Frontend|
+|---|---|---|
+
 <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=008BFF"/> <img src="https://img.shields.io/badge/Django-146C00?style=for-the-badge&logo=django&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
