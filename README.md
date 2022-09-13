@@ -29,6 +29,7 @@ Python| Backend Developer
 ![Python](https://img.shields.io/badge/Python-196F9B?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=101010)</br>
 ![Django](https://img.shields.io/badge/Django-146C00?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=101010)</br>
 ![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=FFFFFF&labelColor=101010)</br>
 
 - 👋 Hi, I’m @Andres95000
 - 👀 I’m interested in ...
